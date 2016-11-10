@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1448941012 source:c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\main(1).cpp
+	"Game.h"
+
+1449358789 c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\game.h
+	<SDL2/SDL.h>
+	<string>
+	<iostream>
+	<vector>
+	"Particle.h"
+
+1449359032 c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\particle.h
+	"Point.h"
+
+1449359014 c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\point.h
+
+1449359032 source:c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\particle.cpp
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<tgmath.h>
+	<iostream>
+	"Particle.h"
+
+1449359014 source:c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\point.cpp
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Point.h"
+
+1449358789 source:c:\users\thomas nguyen\desktop\c++ hw and projects\cs 256 redoing hw 6\game.cpp
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
